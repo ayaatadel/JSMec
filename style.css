@@ -4,6 +4,9 @@ img{
     margin-bottom: 10px;
 
 }
+p{
+    color:red
+}
 .ayaat{
     border-radius: 20px;
     -webkit-border-radius: 20px;
